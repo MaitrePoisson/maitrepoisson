@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-### Passionné de développement | Spécialisé en LUA
+### Passionné de développement
 
 > J'adore le développement et je consacre une grande partie de mon temps à créer en **Lua**.
 
