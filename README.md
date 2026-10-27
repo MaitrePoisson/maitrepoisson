@@ -58,20 +58,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MaitrePoisson&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=MaitrePoisson&theme=dark&hide_border=true" alt="Streak" height="180"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitrePoisson&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
-
-## 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=MaitrePoisson&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=MaitrePoisson&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
